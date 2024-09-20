@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, Asraful Alam
+#### Junior Laravel Developer
+![Junior Laravel Developer](1.png)
+
+To search for a desirable job with which I will have the ample scopes to
+
+Utilize my skills and potentiality with a view to doing some innovative as
+Well as challenging works and from where I will be able to magnify my knowledge and efficiency. 
 
 
-**sohagsorker33/sohagsorker33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+Skills: HTML/CSS/BOOTSTRAP 5/JAVASCRIPT/JQUERY/PHP/LARAVEL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
